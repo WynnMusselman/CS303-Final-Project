@@ -6,7 +6,7 @@ export default function Nav(){
             <ul>
                 <li><Link href = "/">Home</Link></li>
                 <li><Link href = "/Login">Login</Link></li>
-                <li><Link href = "/Profile">Profile</Link></li>
+                <li><Link href = "/Profile">Page</Link></li>
             </ul>
         </nav>
     )
