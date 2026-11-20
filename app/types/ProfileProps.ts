@@ -5,5 +5,5 @@ export type ProfileProps = {
     password: string;
     picture: string; //url of profile picture
     posts: PostProps[];
-    tags: string[];
+    liked_tags: string[];
 };

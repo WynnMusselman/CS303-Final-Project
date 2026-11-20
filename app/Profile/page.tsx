@@ -8,7 +8,7 @@ export default function Page({ user }: { user: ProfileProps }){
             <h2>{user.username}</h2>
             <div>
                 {
-                    user.tags.map((tag: string) => (
+                    user.liked_tags.map((tag: string) => (
                         <span key = {tag}>{tag} </span>
                     ))
                 }

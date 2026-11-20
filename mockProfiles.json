@@ -1,0 +1,21 @@
+{
+  "mockProfiles": [
+    {
+      "username": "user1245",
+      "password": "password123456",
+      "picture": "https://imgflip.com/s/meme/Cute-Cat.jpg",
+      "posts": [
+        {
+          "id": 1,
+          "username": "user1",
+          "title": "my post",
+          "content": "content of post",
+          "tags": ["Switch", "Playstation", "XBox"],
+          "likes": 10,
+          "dislikes": 5
+        }
+      ],
+      "liked_tags": ["nintendo"]
+    }
+  ]
+}
